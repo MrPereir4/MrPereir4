@@ -14,8 +14,18 @@ Desde 2018, venho me dedicando ao mundo do desenvolvimento iOS, criando soluçõ
 
 ### 💼 Projetos
 
-## Spooney: https://github.com/MrPereir4/Spooney
-- Desenvolvi um aplicativo robusto para gerenciamento de finanças pessoais e controle de capital, projetado para empoderar os usuários no caminho da saúde financeira e do investimento inteligente. Este aplicativo não é apenas uma ferramenta, mas um companheiro na jornada financeira, oferecendo uma abordagem integrada para gerenciar receitas, despesas e investimentos.
+#### [Spooney](https://github.com/MrPereir4/Spooney)
+🌐 **Um Companheiro Revolucionário na Gestão Financeira Pessoal**
+
+Desenvolvi o "Spooney", uma solução sofisticada e abrangente para o controle de finanças pessoais e gestão de capital. Este aplicativo transcende a funcionalidade básica de um gerenciador financeiro, posicionando-se como um verdadeiro aliado na jornada rumo à estabilidade e prosperidade financeira.
+
+**Características Distintas:**
+- **Inteligência Financeira Integrada:** Projetado para ser mais que uma ferramenta, "Spooney" é um mentor financeiro, equipando os usuários com insights e controles inteligentes para receitas, despesas e investimentos.
+- **Empoderamento do Usuário:** Focado em transformar o modo como os usuários interagem com suas finanças, o aplicativo oferece uma plataforma intuitiva para tomada de decisões financeiras informadas e estratégicas.
+- **Visão 360° das Finanças:** Com um design elegante e dashboards interativos, "Spooney" proporciona uma visão holística da saúde financeira do usuário, facilitando a identificação de oportunidades de investimento e economia.
+
+"**Spooney**" não é apenas um aplicativo; é uma ponte para alcançar metas financeiras, otimizar investimentos e navegar com confiança no universo das finanças pessoais.
+
 
 ### 📚 Meu Aprendizado Atual
 
