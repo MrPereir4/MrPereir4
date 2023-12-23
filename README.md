@@ -37,6 +37,11 @@ Desenvolvi o "Spooney", uma solução sofisticada e abrangente para o controle d
 - **LinkedIn:** https://www.linkedin.com/in/vinniciuspereirasilva/
 - **Email:** pereiradasilva0@hotmail.com
 
+## 🚀 My LeetCode Stats
+
+![LeetCode Profile](https://img.shields.io/badge/LeetCode-mrpereira-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-X-blue) ![Easy](https://img.shields.io/badge/Easy-X-green) ![Medium](https://img.shields.io/badge/Medium-X-yellow) ![Hard](https://img.shields.io/badge/Hard-X-red)
+
 ### 📊 Minhas Estatísticas no GitHub
 
 ![MrPereir4 stats](https://github-readme-stats.vercel.app/api?username=MrPereir4&show_icons=true&theme=radical)
