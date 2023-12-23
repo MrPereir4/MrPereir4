@@ -40,7 +40,7 @@ Desenvolvi o "Spooney", uma solução sofisticada e abrangente para o controle d
 ## 🚀 My LeetCode Stats
 
 ![LeetCode Profile](https://img.shields.io/badge/LeetCode-mrpereira-brightgreen)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-X-blue) ![Easy](https://img.shields.io/badge/Easy-X-green) ![Medium](https://img.shields.io/badge/Medium-X-yellow) ![Hard](https://img.shields.io/badge/Hard-X-red)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-9-blue) ![Easy](https://img.shields.io/badge/Easy-7-green) ![Medium](https://img.shields.io/badge/Medium-2-yellow) ![Hard](https://img.shields.io/badge/Hard-X-red)
 
 ### 📊 Minhas Estatísticas no GitHub
 
