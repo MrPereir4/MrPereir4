@@ -1,4 +1,4 @@
-# Olá, sou Vinícius Pereira 👋
+# Olá, sou Vinnícius Pereira 👋
 
 ## Desenvolvedor iOS Autodidata | Iniciante em Otimização com Algoritmos Bioinspirados | Iniciante em Simulações Complexas
 
