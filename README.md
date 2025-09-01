@@ -6,7 +6,7 @@ Desde 2018, venho me dedicando ao mundo do desenvolvimento iOS, criando soluçõ
 
 ### 🌟 Sobre Mim
 
-- 📱 Desenvolvedor iOS desde 2018.
+- 📱 Desenvolvedor iOS desde 2019.
 - 🧬 Iniciante em otimização com algoritmos bioinspirados.
 - 🌌 Atualmente mergulhando no mundo das simulações complexas.
 - 🚀 Habilidades em Swift e uma curiosidade incansável por novas tecnologias relacionadas.
