@@ -1,6 +1,6 @@
 # Olá, sou Vinnícius Pereira 👋
 
-## Desenvolvedor iOS Pleno | Iniciante em Otimização com Algoritmos Bioinspirados | Iniciante em Simulações Complexas
+## Desenvolvedor iOS Pleno | Swift | SwiftUI | Combine | UIKit
 
 Desde 2019, venho me dedicando ao mundo do desenvolvimento iOS, criando soluções eficientes, intuitivas e esteticamente agradáveis. Sou um aprendiz autodidata, apaixonado por explorar novas tecnologias e aprimorar minhas habilidades.
 
